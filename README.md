@@ -2,7 +2,7 @@
 
 This is a project I completed in Next.js! I learned the main features of Next.js by building a full-stack web application.
 
-[Try it out](https://next-js-alpha-three.vercel.app) You should be able to log in and out of your application using the following credentials:
+[Try it out](https://next-js-alpha-three.vercel.app) You should be able to log in and out of the application using the following credentials:
 
 **Login details**
 
