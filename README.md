@@ -4,9 +4,9 @@ This is a project I completed in Next.js! I learned the main features of Next.js
 
 [Try it out](https://next-js-alpha-three.vercel.app) You should be able to log in and out of your application using the following credentials:
 
-Login details
+**Login details**
 
-Email: user@nextmail.com
+Email: user@nextmail.com  
 Password: 123456
 
 ## Overview
